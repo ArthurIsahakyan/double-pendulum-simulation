@@ -1,6 +1,5 @@
 # Nonlinear Dynamics: Chaotic Double Pendulum Simulation
 
-
 A high-accuracy physical simulation of a **double pendulum**, showcasing chaotic behavior, Lagrangian mechanics, and numerical integration of stiff non-linear ordinary differential equations (ODEs). 
 
 Developed as part of a portfolio demonstrating competencies in mathematical modeling, scientific computing, and Python programming.
@@ -19,5 +18,3 @@ Developed as part of a portfolio demonstrating competencies in mathematical mode
 To prove the numerical stability of the solver, the system's kinetic, potential, and total energy are tracked throughout the simulation:
 
 ![Energy Conservation](assets/energy_conservation.png)
-
----
